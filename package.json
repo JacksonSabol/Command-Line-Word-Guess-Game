@@ -1,0 +1,23 @@
+{
+  "name": "Command-Line-Word-Guess-Game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacksonSabol/Command-Line-Word-Guess-Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacksonSabol/Command-Line-Word-Guess-Game/issues"
+  },
+  "homepage": "https://github.com/JacksonSabol/Command-Line-Word-Guess-Game#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
